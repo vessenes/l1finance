@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/l1finance/static/css/main.b73eef34.css",
-    "main.js": "/l1finance/static/js/main.3aa24d66.js",
-    "static/js/858.9d2d9c62.chunk.js": "/l1finance/static/js/858.9d2d9c62.chunk.js",
-    "index.html": "/l1finance/index.html",
-    "main.b73eef34.css.map": "/l1finance/static/css/main.b73eef34.css.map",
-    "main.3aa24d66.js.map": "/l1finance/static/js/main.3aa24d66.js.map",
-    "858.9d2d9c62.chunk.js.map": "/l1finance/static/js/858.9d2d9c62.chunk.js.map"
+    "main.css": "/static/css/main.b73eef34.css",
+    "main.js": "/static/js/main.d40ec453.js",
+    "static/js/858.9d2d9c62.chunk.js": "/static/js/858.9d2d9c62.chunk.js",
+    "index.html": "/index.html",
+    "main.b73eef34.css.map": "/static/css/main.b73eef34.css.map",
+    "main.d40ec453.js.map": "/static/js/main.d40ec453.js.map",
+    "858.9d2d9c62.chunk.js.map": "/static/js/858.9d2d9c62.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b73eef34.css",
-    "static/js/main.3aa24d66.js"
+    "static/js/main.d40ec453.js"
   ]
 }
